@@ -41,8 +41,8 @@ const Ask: React.FC = () => {
           </button>
         </form>
         <div>
-          <h2 className="text-xl mb-2">Response:</h2>
-          {answer && <p className="mt-4 text-black">Answer: {answer}</p>}
+          <h2 className="text-xl pl-4 mb-2">Response:</h2>
+          {answer && <p className="mt-4 pl-4 text-black">Answer: {answer}</p>}
         </div>
       </div>
     </div>

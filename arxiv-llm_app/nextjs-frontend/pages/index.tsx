@@ -45,7 +45,7 @@ const Home: React.FC = () => {
       </div>
       <div className="flex flex-col justify-center items-center max-w-xl mx-auto">
         <p className="text-xl text-black text-center">
-          Welcome to Arxiv LLM, please input the URL for a paper you'd like to
+          Welcome to Arxiv LLM, please input the URL for a paper you&apos;d like to
           learn more about (be patient after submitting)
         </p>
       </div>
