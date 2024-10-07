@@ -42,7 +42,7 @@ Navigate to docker-compose.yml and pass in your api key where specified.
 
 ### 3. Build and Run the Application
 
-Use Docker Compose to build and start the application. This command will set up both the frontend and backend services along with the MongoDB database. In the root dir of the folder run this command:
+Use Docker Compose to build and start the application. This command will set up both the frontend and backend services along with the MongoDB database. In /arxiv-llm-app run:
 
 ```bash
 docker compose up --build
