@@ -8,7 +8,7 @@ const Navbar: React.FC = () => {
       <div>
         <div className="p-4">
           <Link
-            href="https://github.com/your-repo-url"
+            href="https://github.com/dextercorley19/arXiv-LLM"
             className="text-black hover:underline p-4"
           >
             GitHub
