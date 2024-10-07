@@ -32,7 +32,7 @@ or
 
 ```bash
 cd path/to/destination/dir
-git clone [<your-repo-url>](https://github.com/dextercorley19/arXiv-LLM)
+git clone https://github.com/dextercorley19/arXiv-LLM
 cd arxiv-llm-app
 ```
 
