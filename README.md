@@ -2,6 +2,8 @@
 
 Welcome to the **arXiv LLM App**! This application allows users to input an arXiv paper URL, processes the content, and retrieves valuable insights using OpenAI's gpt-3.5-turbo LLM. Built with a FastAPI backend and a Next.js frontend, this app provides an interactive way to explore research papers.
 
+![Home page](./index.png)
+
 ## Features
 
 - Input an arXiv paper URL.
