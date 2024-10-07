@@ -1,0 +1,9 @@
+fastapi==0.95.0                # FastAPI framework
+uvicorn==0.22.0                # ASGI server for FastAPI
+pymongo==4.5.0                 # MongoDB driver
+beautifulsoup4==4.12.0         # Web scraping library
+selenium==4.21.0               # Web automation library
+numpy==1.24.2                  # For numerical operations (e.g., cosine similarity)
+python-dotenv==1.0.0           # For loading environment variables from .env files
+openai==0.27.0                 # OpenAI API client
+webdriver_manager
